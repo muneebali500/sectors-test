@@ -1,0 +1,328 @@
+[
+  {
+    "category": "Manufacturing",
+    "subCategory": [
+      { "category": "Construction and Materials", "checked": false },
+      { "category": "Electronics and Optics", "checked": false },
+      {
+        "category": "Food and Beverages",
+        "subCategory": [
+          {
+            "category": "Bakery and Confectionery Products",
+            "checked": false
+          },
+          {
+            "category": "Beverages",
+            "checked": false
+          },
+          {
+            "category": "Fish and Products",
+            "checked": false
+          },
+          {
+            "category": "Meat and Meat Products",
+            "checked": false
+          },
+          {
+            "category": "Milk and Dairy Products",
+            "checked": false
+          },
+          {
+            "category": "Sweets and Snack Food",
+            "checked": false
+          },
+          {
+            "category": "Other",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "category": "Furniture",
+        "subCategory": [
+          {
+            "category": "Bathroom/Sauna",
+            "checked": false
+          },
+          {
+            "category": "Bedroom",
+            "checked": false
+          },
+          {
+            "category": "Children Room",
+            "checked": false
+          },
+          {
+            "category": "Kitchen",
+            "checked": false
+          },
+          {
+            "category": "Living Room",
+            "checked": false
+          },
+          {
+            "category": "Office",
+            "checked": false
+          },
+          {
+            "category": "Other (Furniture)",
+            "checked": false
+          },
+          {
+            "category": "Outdoor",
+            "checked": false
+          },
+          {
+            "category": "Project Furniture",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "category": "Machinery",
+        "subCategory": [
+          {
+            "category": "Machinery Components",
+            "checked": false
+          },
+          {
+            "category": "Machinery Equipoment/tools",
+            "checked": false
+          },
+          {
+            "category": "Manufacture of Machinery",
+            "checked": false
+          },
+          {
+            "category": "Maritime",
+            "subCategory": [
+              {
+                "category": "Aluminium and Steel Workboats",
+                "checked": false
+              },
+              {
+                "category": "Boat/Yacht Building",
+                "checked": false
+              },
+              {
+                "category": "Ship Repair and Conversion",
+                "checked": false
+              }
+            ]
+          },
+          {
+            "category": "Metal Structures",
+            "checked": false
+          },
+          {
+            "category": "Other",
+            "checked": false
+          },
+          {
+            "category": "Repair and Maintenance Service",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "category": "Metalworking",
+        "subCategory": [
+          {
+            "category": "Construction of Metal Structures",
+            "checked": false
+          },
+          {
+            "category": "Houses and Buildings",
+            "checked": false
+          },
+          {
+            "category": "Metal Products",
+            "checked": false
+          },
+          {
+            "category": "Metal Works",
+            "subCategory": [
+              {
+                "category": "CNC-Machining",
+                "checked": false
+              },
+              {
+                "category": "Forgings, Fastners",
+                "checked": false
+              },
+              {
+                "category": "Gas, Plasma, Laser Cutting",
+                "checked": false
+              },
+              {
+                "category": "MIG, TIG, Aluminum Welding",
+                "checked": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Plastic and Rubber",
+        "subCategory": [
+          {
+            "category": "Packaging",
+            "checked": false
+          },
+          {
+            "category": "Plastic Goods",
+            "checked": false
+          },
+          {
+            "category": "Plastic Processing Technology",
+            "subCategory": [
+              {
+                "category": "Blowing",
+                "checked": false
+              },
+              {
+                "category": "Moulding",
+                "checked": false
+              },
+              {
+                "category": "Plastics Welding and Processing",
+                "checked": false
+              }
+            ]
+          },
+          {
+            "category": "Plastic Profiles",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "category": "Printing",
+        "subCategory": [
+          {
+            "category": "Advertising",
+            "checked": false
+          },
+          {
+            "category": "Book/Periodicals Printing",
+            "checked": false
+          },
+          {
+            "category": "Labelling and Packaging Printing",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "category": "Textile and Clothing",
+        "subCategory": [
+          {
+            "category": "Clothing",
+            "checked": false
+          },
+          {
+            "category": "Textile",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "category": "Wood",
+        "subCategory": [
+          {
+            "category": "Other (Wood)",
+            "checked": false
+          },
+          {
+            "category": "Wooden Building Materials",
+            "checked": false
+          },
+          {
+            "category": "Wooden Houses",
+            "checked": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Other",
+    "subCategory": [
+      {
+        "category": "Creative Industries",
+        "checked": false
+      },
+      {
+        "category": "Energy Technology",
+        "checked": false
+      },
+      {
+        "category": "Environment",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "category": "Service",
+    "subCategory": [
+      {
+        "category": "Business Service",
+        "checked": false
+      },
+      {
+        "category": "Engineering",
+        "checked": false
+      },
+      {
+        "category": "Information Technology and Telecommunication",
+        "subCategory": [
+          {
+            "category": "Data Processing, Web Portals, E-Marketuing",
+            "checked": false
+          },
+          {
+            "category": "Programming, Consultancy",
+            "checked": false
+          },
+          {
+            "category": "Software, Hardware",
+            "checked": false
+          },
+          {
+            "category": "Telecommunications",
+            "checked": false
+          }
+        ]
+      },
+      {
+        "category": "Tourism",
+        "checked": false
+      },
+      {
+        "category": "Translation Services",
+        "checked": false
+      },
+      {
+        "category": "Transport and Logistics",
+        "subCategory": [
+          {
+            "category": "Air",
+            "checked": false
+          },
+          {
+            "category": "Rail",
+            "checked": false
+          },
+          {
+            "category": "Road",
+            "checked": false
+          },
+          {
+            "category": "Water",
+            "checked": false
+          }
+        ]
+      }
+    ]
+  }
+]
