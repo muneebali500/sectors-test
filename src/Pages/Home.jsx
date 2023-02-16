@@ -40,7 +40,7 @@ export default function Home() {
                   transform: `${isOpen ? "rotate(-90deg)" : "rotate(90deg)"}`,
                 }}
               >
-                <i class="fa-solid fa-play"></i>
+                <i className="fa-solid fa-play"></i>
               </span>
             </div>
             <Sectors isOpen={isOpen} />
